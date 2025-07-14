@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Verma
 
-<!--
-**vermaaman02/vermaaman02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a BCA student and DevOps enthusiast  
+💻 I build full-stack apps using React, Node.js, Azure, AWS  
+📚 Currently learning: Jenkins, Docker, Kubernetes  
+🌐 Portfolio: [annamrit.vercel.app](https://annamrit.vercel.app)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanverma&show_icons=true&theme=radical)
+
+---
+✨ Thanks for visiting!
