@@ -2,16 +2,16 @@
 
 ### *A digital alchemist turning complex problems into simple, beautiful solutions.*
 
-I'm a passionate developer and DevOps enthusiast from Kanchanpur, Bihar. My journey in tech is driven by a deep curiosity and the joy of engineering elegant, efficient systems. Whether I'm building a dynamic web application or architecting a seamless deployment pipeline, I'm always striving to learn, improve, and build things that matter.
+I'm a passionate developer and DevOps enthusiast from Patna, Bihar. My journey in tech is driven by a deep curiosity and the joy of engineering elegant, efficient systems. Whether I'm building a dynamic web application or architecting a seamless deployment pipeline, I'm always striving to learn, improve, and build things that matter.
 
 ---
 
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="mailto:[your-email@example.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/[your-linkedin-username]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/[your-twitter-username]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:developeraman02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/vermaaman02"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/aman.verma055"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ---
