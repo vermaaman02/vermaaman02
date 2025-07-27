@@ -63,12 +63,13 @@ I'm a passionate developer and DevOps enthusiast from Patna, Bihar. My journey i
 
 ---
 
+
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=vision-friendly-dark" alt="Aman Verma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=vision-friendly-dark" alt="Aman Verma's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=vision-friendly-dark" alt="Aman Verma's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vermaaman02&show_icons=true&theme=vision-friendly-dark" alt="Aman Verma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaman02&layout=compact&theme=vision-friendly-dark" alt="Aman Verma's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vermaaman02&theme=vision-friendly-dark" alt="Aman Verma's GitHub Streak" />
 </p>
 
 ---
