@@ -97,7 +97,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/aman-verma-05b6312a4/))
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
@@ -111,6 +111,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
 
-⭐️ From [Aman Verma](https://github.com/yourusername)
+⭐️ From [Aman Verma](https://github.com/vermaaman02)
 
 </div>
