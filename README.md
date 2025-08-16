@@ -3,10 +3,6 @@
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="700" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</p>
-
 <div align="center">
 
 
