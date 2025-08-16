@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Hi+👋,+I'm+Aman+Verma;BCA+Student+%7C+Web+Developer;Cloud+%26+DevOps+Enthusiast;MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="700" />
 </div>
 
 <p align="center">
