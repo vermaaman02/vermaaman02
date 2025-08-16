@@ -77,46 +77,41 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=628fdb&line=628fdb&point=ffeb95&area=true&area_color=628fdb&hide_border=true" alt="GitHub Activity Graph"/>
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&border_radius=10" alt="GitHub Streak Stats"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ---
 
 ## 🎯 Featured Projects
 
+> **Note:** Replace `project-name-1` and `project-name-2` with your actual repository names
+
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-project-1&theme=tokyonight)](https://github.com/yourusername/your-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-project-2&theme=tokyonight)](https://github.com/yourusername/your-project-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name-1&theme=radical&border_radius=10)](https://github.com/yourusername/project-name-1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name-2&theme=radical&border_radius=10)](https://github.com/yourusername/project-name-2)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&layout=compact" alt="WakaTime Stats"/>
+  <img width="800" src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -137,24 +132,27 @@
 ## 💭 Random Dev Quote
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
+## 📊 Weekly Development Breakdown
 
 <div align="center">
   
-### 🐍 My Contributions
-  
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    123 commits    ████████░░░░░░░░░░░░░░░░░   35.14% 
+🌆 Daytime    145 commits    ██████████░░░░░░░░░░░░░░░   41.43% 
+🌃 Evening     65 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
+🌙 Night       17 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   4.86%
+
+```
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -166,6 +164,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
 
-⭐️ From [yourusername](https://github.com/yourusername)
+[![GitHub Streak](https://img.shields.io/badge/From%20Hello%20World-I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)](https://github.com/yourusername)
+
+⭐️ From [Aman Verma](https://github.com/yourusername) | Made with ❤️ and lots of ☕
 
 </div>
