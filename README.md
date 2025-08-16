@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me  
-💻 I’m a BCA student (2022–2025) with strong skills in **MERN Stack, DevOps, Cloud (AWS & Azure), Python, and Java**.  
+💻 I’m a BCA student (2023–2026) with strong skills in **MERN Stack, DevOps, Cloud (AWS & Azure), Python, and Java**.  
 📘 Exploring advanced system design, CI/CD, and cloud-native solutions.  
 🎯 Aim: To build **scalable, secure, and production-ready applications**.  
 🌱 Currently improving my **cloud + DevOps automation skills**.  
