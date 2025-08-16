@@ -8,9 +8,7 @@
 </p>
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername?tab=followers)
+
 
 </div>
 
