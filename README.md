@@ -8,7 +8,7 @@
 <h3 align="center">🚀 Cloud & Full-Stack Developer | MERN Enthusiast | BCA Student @ Amity University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Cloud+Computing+Learner;DevOps+Explorer;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Cloud+Computing+Learner;DevOps+Engineer;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <div align="center">
