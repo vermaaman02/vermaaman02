@@ -1,6 +1,6 @@
 <!-- Profile Banner / GIF -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="700" alt="Coding Animation" />
+  <img src="https://github.com/mdazfar2/Cool-GIFs-For-GitHub" />
 </div>
 
 ---
